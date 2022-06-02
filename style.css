@@ -1,7 +1,13 @@
 header {
 background-color: #E6E6E6;
-text-align: center
-;
+text-align: center;
+background-image: url(img/gotham.png);
+background-size: 700px;
+background-repeat: no-repeat;
+
+}
+header img{
+    width: 90px;
 }
 h1 {
     background-color: #C4C4C4;
@@ -14,6 +20,7 @@ h1 {
     line-height: 84.69%;
     text-align: center;
     letter-spacing: 0.25em;
+
     
 } 
 h2{
